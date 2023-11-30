@@ -22,10 +22,10 @@
     "url": "https://animevsub.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/animevsub.eu.org.ico",
     "slug": "anime-vsub",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 705,
@@ -33,16 +33,18 @@
     "timeWeek": 853,
     "timeMonth": 705,
     "timeYear": 705,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-30": 1
+    }
   },
   {
     "name": "Manga Raiku",
     "url": "https://mangaraiku.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/mangaraiku.eu.org.ico",
     "slug": "manga-raiku",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,6 +53,8 @@
     "timeWeek": 380,
     "timeMonth": 409,
     "timeYear": 409,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-30": 0
+    }
   }
 ]
