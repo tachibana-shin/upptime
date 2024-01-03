@@ -40,19 +40,19 @@
     "url": "https://mangaraiku.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/mangaraiku.eu.org.ico",
     "slug": "manga-raiku",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 401,
-    "timeDay": 317,
-    "timeWeek": 368,
-    "timeMonth": 397,
-    "timeYear": 401,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 402,
+    "timeDay": 361,
+    "timeWeek": 377,
+    "timeMonth": 398,
+    "timeYear": 402,
     "dailyMinutesDown": {
-      "2024-01-03": 0
+      "2024-01-03": 6
     }
   }
 ]
