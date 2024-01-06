@@ -4,19 +4,19 @@
     "url": "https://shin.is-a.dev",
     "icon": "https://icons.duckduckgo.com/ip3/shin.is-a.dev.ico",
     "slug": "shin-blog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 123,
-    "timeDay": 44,
-    "timeWeek": 89,
-    "timeMonth": 120,
-    "timeYear": 123,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 121,
+    "timeDay": 53,
+    "timeWeek": 86,
+    "timeMonth": 119,
+    "timeYear": 121,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 6
     }
   },
   {
