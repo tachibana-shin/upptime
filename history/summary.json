@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/shin.is-a.dev.ico",
     "slug": "shin-blog",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 120,
-    "timeDay": 57,
-    "timeWeek": 84,
-    "timeMonth": 117,
+    "timeDay": 71,
+    "timeWeek": 83,
+    "timeMonth": 113,
     "timeYear": 120,
-    "dailyMinutesDown": {
-      "2024-01-06": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "AnimeVsub",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 487,
-    "timeDay": 368,
-    "timeWeek": 412,
+    "time": 486,
+    "timeDay": 451,
+    "timeWeek": 425,
     "timeMonth": 407,
-    "timeYear": 487,
+    "timeYear": 486,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 397,
-    "timeDay": 293,
-    "timeWeek": 329,
-    "timeMonth": 390,
-    "timeYear": 397,
+    "time": 395,
+    "timeDay": 273,
+    "timeWeek": 333,
+    "timeMonth": 391,
+    "timeYear": 395,
     "dailyMinutesDown": {}
   }
 ]
