@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/shin.is-a.dev.ico",
     "slug": "shin-blog",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.59%",
-    "uptimeYear": "99.79%",
-    "time": 145,
-    "timeDay": 82,
-    "timeWeek": 344,
+    "uptimeYear": "99.80%",
+    "time": 146,
+    "timeDay": 177,
+    "timeWeek": 122,
     "timeMonth": 169,
-    "timeYear": 145,
+    "timeYear": 146,
     "dailyMinutesDown": {
       "2024-01-07": 181
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 533,
-    "timeDay": 366,
-    "timeWeek": 995,
-    "timeMonth": 539,
-    "timeYear": 533,
+    "time": 532,
+    "timeDay": 504,
+    "timeWeek": 1027,
+    "timeMonth": 537,
+    "timeYear": 532,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 393,
-    "timeDay": 323,
-    "timeWeek": 427,
-    "timeMonth": 382,
-    "timeYear": 393,
+    "time": 394,
+    "timeDay": 487,
+    "timeWeek": 447,
+    "timeMonth": 384,
+    "timeYear": 394,
     "dailyMinutesDown": {}
   }
 ]
