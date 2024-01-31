@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.82%",
-    "time": 142,
-    "timeDay": 185,
-    "timeWeek": 108,
+    "time": 141,
+    "timeDay": 95,
+    "timeWeek": 112,
     "timeMonth": 159,
-    "timeYear": 142,
+    "timeYear": 141,
     "dailyMinutesDown": {
       "2024-01-07": 181
     }
@@ -25,19 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/animevsub.eu.org.ico",
     "slug": "anime-vsub",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 588,
-    "timeDay": 2936,
-    "timeWeek": 1112,
-    "timeMonth": 708,
-    "timeYear": 588,
-    "dailyMinutesDown": {
-      "2024-01-30": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 589,
+    "timeDay": 3036,
+    "timeWeek": 1143,
+    "timeMonth": 716,
+    "timeYear": 589,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Manga Raiku",
@@ -50,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 394,
-    "timeDay": 388,
-    "timeWeek": 377,
-    "timeMonth": 371,
-    "timeYear": 394,
+    "time": 393,
+    "timeDay": 322,
+    "timeWeek": 382,
+    "timeMonth": 374,
+    "timeYear": 393,
     "dailyMinutesDown": {}
   }
 ]
