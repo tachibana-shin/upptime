@@ -11,6 +11,7 @@ sites:
     url: https://mangaraiku.eu.org
   - name: AnimeVsub API intro/outro
     url: https://opend-9animetv.animevsub.eu.org/list-episodes?name=Tonikaku+Kawaii
+    icon: https://animevsub.eu.org/favicon.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
