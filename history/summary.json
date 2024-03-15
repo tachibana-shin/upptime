@@ -54,5 +54,23 @@
     "timeMonth": 399,
     "timeYear": 429,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "AnimeVsub API intro/outro",
+    "url": "https://opend-9animetv.animevsub.eu.org/list-episodes?name=Tonikaku+Kawaii",
+    "icon": "https://icons.duckduckgo.com/ip3/opend-9animetv.animevsub.eu.org.ico",
+    "slug": "anime-vsub-api-intro-outro",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 418,
+    "timeDay": 418,
+    "timeWeek": 418,
+    "timeMonth": 418,
+    "timeYear": 418,
+    "dailyMinutesDown": {}
   }
 ]
