@@ -24,19 +24,19 @@
     "url": "https://animevsub.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/animevsub.eu.org.ico",
     "slug": "anime-vsub",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 522,
-    "timeDay": 534,
-    "timeWeek": 382,
-    "timeMonth": 387,
+    "timeDay": 535,
+    "timeWeek": 404,
+    "timeMonth": 392,
     "timeYear": 522,
     "dailyMinutesDown": {
-      "2024-03-16": 0
+      "2024-03-16": 6
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://mangaraiku.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/mangaraiku.eu.org.ico",
     "slug": "manga-raiku",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 432,
-    "timeDay": 701,
-    "timeWeek": 492,
-    "timeMonth": 410,
-    "timeYear": 432,
+    "time": 430,
+    "timeDay": 463,
+    "timeWeek": 454,
+    "timeMonth": 404,
+    "timeYear": 430,
     "dailyMinutesDown": {
-      "2024-03-16": 0
+      "2024-03-16": 6
     }
   },
   {
