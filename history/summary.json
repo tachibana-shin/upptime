@@ -24,9 +24,9 @@
     "url": "https://animevsub.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/animevsub.eu.org.ico",
     "slug": "anime-vsub",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,16 +35,18 @@
     "timeWeek": 382,
     "timeMonth": 387,
     "timeYear": 522,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 0
+    }
   },
   {
     "name": "Manga Raiku",
     "url": "https://mangaraiku.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/mangaraiku.eu.org.ico",
     "slug": "manga-raiku",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +55,9 @@
     "timeWeek": 492,
     "timeMonth": 410,
     "timeYear": 432,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 0
+    }
   },
   {
     "name": "AnimeVsub API intro/outro",
