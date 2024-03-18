@@ -60,19 +60,19 @@
     "url": "https://opend-9animetv.animevsub.eu.org/list-episodes?name=Tonikaku+Kawaii",
     "icon": "https://animevsub.eu.org/favicon.ico",
     "slug": "anime-vsub-api-intro-outro",
-    "status": "down",
-    "uptime": "92.31%",
-    "uptimeDay": "73.28%",
-    "uptimeWeek": "92.31%",
-    "uptimeMonth": "92.31%",
-    "uptimeYear": "92.31%",
-    "time": 1196,
-    "timeDay": 1085,
-    "timeWeek": 1196,
-    "timeMonth": 1196,
-    "timeYear": 1196,
+    "status": "up",
+    "uptime": "92.10%",
+    "uptimeDay": "72.49%",
+    "uptimeWeek": "92.10%",
+    "uptimeMonth": "92.10%",
+    "uptimeYear": "92.10%",
+    "time": 1270,
+    "timeDay": 1269,
+    "timeWeek": 1270,
+    "timeMonth": 1270,
+    "timeYear": 1270,
     "dailyMinutesDown": {
-      "2024-03-18": 385
+      "2024-03-18": 396
     }
   }
 ]
