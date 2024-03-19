@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 152,
-    "timeDay": 77,
-    "timeWeek": 77,
-    "timeMonth": 129,
+    "timeDay": 93,
+    "timeWeek": 79,
+    "timeMonth": 125,
     "timeYear": 152,
     "dailyMinutesDown": {
       "2024-01-07": 181
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 517,
-    "timeDay": 256,
-    "timeWeek": 399,
-    "timeMonth": 392,
-    "timeYear": 517,
+    "time": 515,
+    "timeDay": 261,
+    "timeWeek": 386,
+    "timeMonth": 388,
+    "timeYear": 515,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 437,
-    "timeDay": 648,
-    "timeWeek": 535,
+    "time": 436,
+    "timeDay": 346,
+    "timeWeek": 516,
     "timeMonth": 427,
-    "timeYear": 437,
+    "timeYear": 436,
     "dailyMinutesDown": {}
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://animevsub.eu.org/favicon.ico",
     "slug": "anime-vsub-api-intro-outro",
     "status": "up",
-    "uptime": "92.10%",
-    "uptimeDay": "72.49%",
-    "uptimeWeek": "92.10%",
-    "uptimeMonth": "92.10%",
-    "uptimeYear": "92.10%",
-    "time": 1270,
-    "timeDay": 1269,
-    "timeWeek": 1270,
-    "timeMonth": 1270,
-    "timeYear": 1270,
+    "uptime": "92.56%",
+    "uptimeDay": "73.29%",
+    "uptimeWeek": "92.56%",
+    "uptimeMonth": "92.56%",
+    "uptimeYear": "92.56%",
+    "time": 1128,
+    "timeDay": 1217,
+    "timeWeek": 1128,
+    "timeMonth": 1128,
+    "timeYear": 1128,
     "dailyMinutesDown": {
-      "2024-03-18": 396
+      "2024-03-18": 385
     }
   }
 ]
